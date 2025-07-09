@@ -105,4 +105,4 @@ The output provides a real-time log of each philosopher's state. Each line is fo
 ## ✍️ Author
 
 **murdex5** - [GitHub Profile](https://github.com/murdex5)
-**kadferna"" - [42 Profile](https://profile.intra.42.fr/users/kadferna) 
+**kadferna** - [42 Profile](https://profile.intra.42.fr/users/kadferna) 
