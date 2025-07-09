@@ -1,9 +1,7 @@
 <h1 align="center">🍽️ 42 Philosophers 👨‍💻</h1>
 
 <p align="center">
-  <a href="https://github.com/murdex5/42_philosophers/actions"><img src="https://img.shields.io/github/actions/workflow/status/murdex5/42_philosophers/main.yml?branch=main&style=for-the-badge" alt="Build Status"></a>
   <img src="https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge" alt="Language C">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License MIT">
 </p>
 
 <p align="center">
