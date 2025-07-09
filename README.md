@@ -22,8 +22,6 @@
   - [Arguments](#arguments)
   - [Examples](#examples)
 - [Output Visualization](#-output-visualization)
-- [Contributing](#-contributing)
-- [License](#-license)
 - [Author](#-author)
 
 ## 🤔 About The Project
@@ -106,20 +104,7 @@ The output provides a real-time log of each philosopher's state. Each line is fo
 ...
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas for improvements or find any issues, feel free to open an issue or submit a pull request.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## ✍️ Author
 
 **murdex5** - [GitHub Profile](https://github.com/murdex5)
+**kadferna"" - [42 Profile](https://profile.intra.42.fr/users/kadferna) 
